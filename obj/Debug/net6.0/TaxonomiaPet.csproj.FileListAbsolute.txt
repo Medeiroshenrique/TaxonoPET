@@ -1,0 +1,15 @@
+C:\Users\olegk\source\repos\TaxonomiaPet\bin\Debug\net6.0\TaxonomiaPet.exe
+C:\Users\olegk\source\repos\TaxonomiaPet\bin\Debug\net6.0\TaxonomiaPet.deps.json
+C:\Users\olegk\source\repos\TaxonomiaPet\bin\Debug\net6.0\TaxonomiaPet.runtimeconfig.json
+C:\Users\olegk\source\repos\TaxonomiaPet\bin\Debug\net6.0\TaxonomiaPet.dll
+C:\Users\olegk\source\repos\TaxonomiaPet\bin\Debug\net6.0\TaxonomiaPet.pdb
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\TaxonomiaPet.csproj.AssemblyReference.cache
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\TaxonomiaPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\TaxonomiaPet.AssemblyInfoInputs.cache
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\TaxonomiaPet.AssemblyInfo.cs
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\TaxonomiaPet.csproj.CoreCompileInputs.cache
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\TaxonomiaPet.dll
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\refint\TaxonomiaPet.dll
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\TaxonomiaPet.pdb
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\TaxonomiaPet.genruntimeconfig.cache
+C:\Users\olegk\source\repos\TaxonomiaPet\obj\Debug\net6.0\ref\TaxonomiaPet.dll
